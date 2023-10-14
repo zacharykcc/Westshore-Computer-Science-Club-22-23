@@ -1,0 +1,22 @@
+2
+3 5
+Restaurants 25
+NewCellPhone 80
+Groceries 100
+Groceries + 20
+NewCellPhone - 800
+Groceries - 80
+Restaurants - 20
+Restaurants - 20
+3 8
+Restaurants 25
+NewCellPhone 80
+Groceries 100
+NewCellPhone + 400
+NewCellPhone - 800
+Groceries - 80
+NewCellPhone + 200
+Restaurants - 25
+NewCellPhone + 200
+Restaurants - 50
+NewCellPhone - 800
