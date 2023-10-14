@@ -33,6 +33,7 @@ def main(argv):
 
 	flagHashForUserPin = hashlib.sha256()
 	flagHashForUserPin.update(flag)
+
 	if (flagHashForUserPin.digest() == flagHash):
 		print("Congratulations")
 		print(flag.decode("utf-8"))
