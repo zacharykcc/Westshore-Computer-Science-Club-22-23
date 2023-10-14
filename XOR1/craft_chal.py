@@ -9,4 +9,3 @@ for curchar in flag:
 
 print(outputText)
 
-
