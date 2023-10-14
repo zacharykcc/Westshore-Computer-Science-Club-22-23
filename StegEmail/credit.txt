@@ -1,0 +1,74 @@
+Image Credits:
+
+Falcon 9 - A Systems Overview.
+Community Content
+
+r/spacex
+7 yr. ago
+by 
+ap0r
+
+
+I've made this overview based on public sources, both official and r/spacex, for my own education and entertainment. I hope it can be of use to the community, so I've decided to share.
+
+Here's a PNG version - beware this is not 100% up to date, visit the draw.io link for latest schematic: http://imgur.com/a/Up80P
+
+And here's the original draw.io scheme: https://drive.google.com/file/d/0B7TPwnJRH1AYRVNUSUdEeUdjZ1U/view?usp=sharing
+
+It is reccomended that you view and share this link, as it will be kept up to date, whereas the above imgur link is a static image and may not reflect the latest updates and fixes.
+
+Any and all corrections are extremely welcome. I'm sure there are some small or big mistakes still. Feel free to either post below or comment in the draw.io link.
+
+EDIT: So far, community fixes include:
+
+Correct landing leg He source (Piston doubles as HP tank, onboard not used) Saves a pipe.
+
+Leg Actuator Changed to Leg Latch, as it is a passive pressure-based deploy.
+
+Correct Grid Fin Hydraulic schema (It dumps to the RP1 tank and the fluid is RP1)
+
+Correct S2 Engine turbopump Exhaust Path (I was using the legacy system where it was used for Roll Control) I replaced it with the current nozzle extension film cooling path and set the original aside to keep the information on legacy models. It's there so no sense in just deleting it.
+
+Added Helium Heat Exchanger subsystem, originally missing.
+
+LOX Fill/Drain in S1 now connects in LOXtopus.
+
+Thicker fluid lines for clarity and Fluid Color reference.
+
+Added Fill/Drain to Grid Fin Hydraulic Reservoir.
+
+Added AFTS subsystem.
+
+Added O/F mix valve (Trim Valve)
+
+Added separators between main parts of the booster (engines, S1, Interstage, Mvac, S2, Payload adapter)
+
+Moved RCS from interstage to top of S1... and back again... What was I thinking?
+
+Fix several typos
+
+Added acronym list.
+
+Managed to fit in regenerative cooling. Thanks to u/CmdrStarLightBreaker for solving the puzzle.
+
+Stage sep now uses HP helium, as per F9 User's Guide.
+
+Fairing sep confirmed to use He too.
+
+Colorized tanks, fixed a redundant RP1 line on S2, added another acronym. Fixed a minor alignment error.
+
+Modified Landing Leg Latches to use Helium
+
+Added cold gas jets in RCS and engine plume.
+
+TEA/TEB tanks moved out of engine compartment and into the fuselages.
+
+Added Payload HVAC, umbilicals for all stages, and payload sep sensors.
+
+Added Ullage thrusters, can't believe I missed those.
+
+Added Radioaltimeter, title section with Spacex & F9 logos.
+
+Cleaned up several cluttered lines.
+
+Added Fairing Recovery System, stolen courtesy u/sol3tosol4

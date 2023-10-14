@@ -1,0 +1,1 @@
+cat tay-tay.txt | tr -cs '[:alpha:]' '\n' | tr 'A-Z' 'a-z' | sort | awk 'length($0) == 6' | uniq -c | sort -nr | head -3 
