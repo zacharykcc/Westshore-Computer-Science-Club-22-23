@@ -37,6 +37,7 @@ for count in range(int(content[0])):
     matrix[1].append(tempList) 
     tempList =[]
 
+
     for count in range(int(str(content[posistion-columns])[1:2]) ):
         matrixPos = 0
         if str( ((content[posistion]).split())[0] ) == matrix[0][matrixPos]:
@@ -45,3 +46,4 @@ for count in range(int(content[0])):
                 print("YES")
             else:
                 print("NO")
+
