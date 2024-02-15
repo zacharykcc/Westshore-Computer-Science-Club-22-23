@@ -1,0 +1,63 @@
+5
+4 7
+Automotive 380
+Hobbies 536
+Donations 464
+Dating 696
+Dating + 64
+Hobbies - 122
+Donations + 135
+Hobbies + 63
+Dating + 194
+Dating - 351
+Hobbies - 178
+3 6
+Medical 391
+Housing 718
+School 276
+Medical + 126
+Housing - 268
+Medical - 197
+Housing - 267
+School + 78
+Housing - 286
+5 5
+Concerts 344
+Streaming 726
+Groceries 612
+Restaurants 707
+Dating 440
+Restaurants + 136
+Dating - 375
+Restaurants + 197
+Restaurants + 98
+Concerts - 416
+5 10
+Automotive 663
+Groceries 418
+School 407
+Games 518
+HomeImprovements 381
+Groceries - 181
+Automotive - 496
+HomeImprovements + 59
+HomeImprovements + 60
+Groceries + 95
+Groceries - 299
+School - 441
+Groceries + 188
+Games - 409
+HomeImprovements - 225
+5 6
+Groceries 718
+Games 549
+Streaming 726
+Sports 322
+Automotive 709
+Groceries + 71
+Automotive - 405
+Automotive - 380
+Groceries + 93
+Sports - 293
+Sports - 250
+Games + 106
