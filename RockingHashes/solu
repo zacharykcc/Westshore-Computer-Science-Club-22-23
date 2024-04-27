@@ -1,0 +1,61 @@
+OpenCL API (OpenCL 2.0 pocl 1.8  Linux, None+Asserts, RELOC, LLVM 11.1.0, SLEEF, DISTRO, POCL_DEBUG) - Platform #1 [The pocl project]
+=====================================================================================================================================
+* Device #1: pthread-11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz, 2774/5613 MB (1024 MB allocatable), 8MCU
+
+Minimum password length supported by kernel: 0
+Maximum password length supported by kernel: 256
+
+Hashes: 3 digests; 3 unique digests, 1 unique salts
+Bitmaps: 16 bits, 65536 entries, 0x0000ffff mask, 262144 bytes, 5/13 rotates
+Rules: 1
+
+Optimizers applied:
+* Zero-Byte
+* Early-Skip
+* Not-Salted
+* Not-Iterated
+* Single-Salt
+* Raw-Hash
+
+ATTENTION! Pure (unoptimized) backend kernels selected.
+Pure kernels can crack longer passwords, but drastically reduce performance.
+If you want to switch to optimized kernels, append -O to your commandline.
+See the above message to find out about the exact limits.
+
+Watchdog: Temperature abort trigger set to 90c
+
+Host memory required for this attack: 2 MB
+
+Dictionary cache built:
+* Filename..: rockyou.txt
+* Passwords.: 14344392
+* Bytes.....: 139921507
+* Keyspace..: 14344385
+* Runtime...: 1 sec
+
+793161ba475a30b7f2cebeba189a6f9f:ihatehackers             
+0d79c4a8bb78a74c6b5ecfaf8a523ee3:myyahoopassword          
+72340ede7deeba250b290906090b4587:ilovewalmart             
+                                                          
+Session..........: hashcat
+Status...........: Cracked
+Hash.Mode........: 0 (MD5)
+Hash.Target......: chal.txt
+Time.Started.....: Fri Feb 23 14:54:20 2024 (1 sec)
+Time.Estimated...: Fri Feb 23 14:54:21 2024 (0 secs)
+Kernel.Feature...: Pure Kernel
+Guess.Base.......: File (rockyou.txt)
+Guess.Queue......: 1/1 (100.00%)
+Speed.#1.........:  6100.0 kH/s (0.16ms) @ Accel:512 Loops:1 Thr:1 Vec:16
+Recovered........: 3/3 (100.00%) Digests
+Progress.........: 7389184/14344385 (51.51%)
+Rejected.........: 0/7389184 (0.00%)
+Restore.Point....: 7385088/14344385 (51.48%)
+Restore.Sub.#1...: Salt:0 Amplifier:0-1 Iteration:0-1
+Candidate.Engine.: Device Generator
+Candidates.#1....: iloveyoo92 -> ilovetj2much
+Hardware.Mon.#1..: Temp: 55c Util: 38%
+
+Started: Fri Feb 23 14:53:52 2024
+Stopped: Fri Feb 23 14:54:22 2024
+

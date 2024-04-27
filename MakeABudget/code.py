@@ -6,6 +6,7 @@ columns = 0
 rows = 0
 tempList = []
 matrixPos = 0
+firstRun = 0
 '''
 print(content)
 print(posistion)
@@ -26,13 +27,17 @@ for count in range(int(content[0])):
     tempList =[]
 
     for count in range( (int(str( content[posistion].split()[1] ))) - 1 ): 
-
+        
         
         print(posistion)
         print(content[posistion])
         tempList.append( ((content[posistion]).split())[1] ) # shit break line
         posistion += 1
         rows += 1
+        if firstRun == 0:
+            matrix[0][0] = matrix[0][1:]
+            matrix[1][0] = matrix[1][1:]
+            firstRun += 1
         
     matrix[1].append(tempList) 
     tempList =[]
