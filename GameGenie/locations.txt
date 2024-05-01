@@ -1,4 +1,4 @@
-0459
-04FD
-04FE
-0548
+0459 - Ammo
+FE DE
+
+BD4A - edits the amt of ammo
